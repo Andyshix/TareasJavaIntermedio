@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Taquilla
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EjercicioLaves7\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Taquilla()
+comment2.params=
+comment2.target=java.lang.String\ atenderCliente()
+comment3.params=
+comment3.target=boolean\ estaVacio()
+comment4.params=nueva
+comment4.target=void\ agregarAFila(Persona)
+numComments=5

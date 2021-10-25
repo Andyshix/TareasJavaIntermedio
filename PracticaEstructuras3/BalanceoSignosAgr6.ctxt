@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BalanceoSignosAgr6
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EjercicioLaves7\ here.\r\n\ \r\n\ @author\ (Andrea)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=cad
+comment1.target=java.lang.String\ verificarBalanceo(java.lang.String)
+comment2.params=a\ b
+comment2.target=boolean\ sonOpuestos(char,\ char)
+numComments=3
