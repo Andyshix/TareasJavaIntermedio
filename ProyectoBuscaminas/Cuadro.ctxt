@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cuadro
+comment1.params=
+comment1.target=Cuadro()
+comment2.params=
+comment2.target=int\ getValor()
+comment3.params=
+comment3.target=void\ setMina()
+comment4.params=
+comment4.target=void\ incrementar()
+comment5.params=
+comment5.target=void\ develar()
+comment6.params=
+comment6.target=boolean\ estaDevelado()
+numComments=7
