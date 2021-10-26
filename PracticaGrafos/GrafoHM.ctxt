@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GrafoHM
+comment1.params=valor
+comment1.target=GrafoHM(boolean)
+comment2.params=origen\ destino\ costo
+comment2.target=void\ agregarArista(java.lang.String,\ java.lang.String,\ int)
+comment3.params=origen\ destino\ costo
+comment3.target=void\ crearArista(java.lang.String,\ java.lang.String,\ int)
+comment4.params=raiz
+comment4.target=void\ bfsAmplitud(java.lang.String)
+comment5.params=raiz
+comment5.target=void\ dfsProfundidad(java.lang.String)
+comment6.params=vertice
+comment6.target=java.util.HashMap\ eliminarVertice(java.lang.String)
+comment7.params=origen\ destino
+comment7.target=void\ eliminarArista(java.lang.String,\ java.lang.String)
+numComments=8
